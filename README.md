@@ -78,7 +78,6 @@ class MainActivity : AppCompatActivity() {
 ## Screenshots
 
 **Handling Network Connectivity using Lottie Animation Dialog**
-
 <table>
   <tr>
     <td>
