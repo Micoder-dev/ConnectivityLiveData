@@ -1,4 +1,5 @@
 # ConnectivityLiveData
+
 [![](https://jitpack.io/v/Micoder-dev/ConnectivityLiveData.svg)](https://jitpack.io/#Micoder-dev/ConnectivityLiveData)
 
 The ConnectivityLiveData library provides a simple way to monitor network connectivity status changes in an Android application using LiveData. It is available on Jitpack and can be added to an Android project by following the instructions provided below.
