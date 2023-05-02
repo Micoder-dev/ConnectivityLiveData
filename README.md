@@ -1,17 +1,24 @@
 # ConnectivityLiveData
 [![](https://jitpack.io/v/Micoder-dev/ConnectivityLiveData.svg)](https://jitpack.io/#Micoder-dev/ConnectivityLiveData)
 
+The ConnectivityLiveData library provides a simple way to monitor network connectivity status changes in an Android application using LiveData. It is available on Jitpack and can be added to an Android project by following the instructions provided below.
+
 ## Prerequisites
 
-Add this in your root `build.gradle` file (**not** your module `build.gradle` file):
+Add this in your root `settings.gradle`:
 
 ```gradle
-allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
-	}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+
+	// Add this jitpack URL
+        maven { url 'https://jitpack.io' }
+
+    }
+}
 ```
 
 ## Dependency
