@@ -78,6 +78,7 @@ class MainActivity : AppCompatActivity() {
 ## Screenshots
 
 **Handling Network Connectivity using Lottie Animation Dialog**
+
 <table>
   <tr>
     <td>
@@ -89,6 +90,7 @@ class MainActivity : AppCompatActivity() {
 	<p>Network Available</br>(True -> Hides Lottie)</p>
     </td>
   </tr>
+</table>
 
 ## Contributing
 
