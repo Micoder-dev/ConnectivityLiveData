@@ -25,7 +25,7 @@ dependencyResolutionManagement {
 
 This library is available on [Jitpack](https://jitpack.io/#Micoder-dev/ConnectivityLiveData)
 
-Add this to your module's `build.gradle` file (make sure the version matches the Jitpack URL badge above):
+Add this to your module's `build.gradle` file (make sure the **Tag** matches the Jitpack version badge above):
 
 ```gradle
 dependencies {
