@@ -73,3 +73,19 @@ class MainActivity : AppCompatActivity() {
 }
 
 ```
+
+## Screenshots
+
+**Handling Network Connectivity using Lottie Animation Dialog**
+
+<table>
+  <tr>
+    <td>
+      <img src="https://micoder-dev.github.io/files/connectivity/2.jpg" width="240" alt="Screenshot 2">
+     	<p>Network Not Available</br>(False -> Shows Lottie)</p>
+    </td>
+    <td>
+      <img src="https://micoder-dev.github.io/files/connectivity/1.jpg" width="240" alt="Screenshot 1">
+	<p>Network Available</br>(True -> Hides Lottie)</p>
+    </td>
+  </tr>
